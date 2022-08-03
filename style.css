@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+  display: grid;
+  place-items: center;
+  height: 90vh;
+}
+
+div {
+  border: 2px solid navy;
+  padding: 1rem;
+  text-align: center;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+p {
+  color: red;
+  font-size: 1.25rem;
+}
